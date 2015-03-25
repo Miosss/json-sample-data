@@ -1,0 +1,8 @@
+{
+	"name": "Open Relics PL - Otwarte Zabytki",
+	"description": "Data about polish relics.",
+	"processing-info": "Data comes into separete json files. They were combined into one JSON object, where keys are original filenames and values - contents of those files.",
+	"download_date": "2015-03-25",
+	"download_url": "http://otwartezabytki.pl/history/2015-03-23-relics-json.zip",
+	"site_url": "http://otwartezabytki.pl/pl/strony/pobierz-dane"
+}
