@@ -1,0 +1,8 @@
+{
+	"name": "SF City Lots",
+	"description": "The CityLots spatial data layer is a representation of the City and County of San Francisco's Subdivision parcels. Each of the 200,000-plus polygons has a unique BLKLOT identifier which is the Assessor Parcel Number (APN) Multiple level (condominium, live/work, et al) lots are represented as well, with their ground or base lot being the MAPBLKLOT key.",
+	"processing-info": "SFgov gives shapefile format; somebody from http://stackoverflow.com/questions/13083491/looking-for-big-sample-dummy-json-data-file gave data converted to JSON.",
+	"download_date": "2015-03-25",
+	"download_url": "https://github.com/seductiveapps/largeJSON/blob/master/100mb.json",
+	"site_url": "https://data.sfgov.org/download/3vyz-qy9p/ZIP"
+}

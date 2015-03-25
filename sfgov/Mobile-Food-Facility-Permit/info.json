@@ -1,0 +1,8 @@
+{
+	"name": "Mobile Food Facility Permit",
+	"description": "San Francisco: Mobile Food Facility Permits including name of vendor, location, type of food sold and status of permit.",
+	"processing-info": "None preprocessing involved (renaming only)",
+	"download_date": "2015-03-25",
+	"download_url": "https://data.sfgov.org/api/views/rqzj-sfat/rows.json?accessType=DOWNLOAD",
+	"site_url": "https://data.sfgov.org/Economy-and-Community/Mobile-Food-Facility-Permit/rqzj-sfat"
+}
