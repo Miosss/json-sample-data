@@ -1,0 +1,8 @@
+{
+	"name": "MTG",
+	"description": "Magic The Gathering, all cards in JSON format",
+	"processing-info": "None preprocessing involved (unzipping only and renaming)",
+	"download_date": "2015-03-25",
+	"download_url": "http://mtgjson.com/json/AllSets-x.json.zip",
+	"site_url": "http://mtgjson.com/"
+}
